@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Javier Gerardo Milei",
+        "title": "Presidente de la Nación Argentina",
+        "bio": "Economista libertario y ex comentarista televisivo que canalizó la indignación pública por la inflación y la corrupción para ganar las elecciones de 2023; asumió el 10 de diciembre de 2023 y ahora impulsa agresivas reformas fiscales y desregulatorias apodadas «plan motosierra».",
+        "age": 54,
+        "isActive": true,
+        "party": "La Libertad Avanza"
+    },
+    {
+        "name": "Victoria Eugenia Villarruel",
+        "title": "Vicepresidenta de la Nación Argentina",
+        "bio": "Abogada y activista conservadora de derechos humanos que fundó una ONG de víctimas del terrorismo; elegida en la fórmula de Milei y juró el 10 de diciembre de 2023. Preside el Senado y es considerada el principal puente del gobierno con la derecha tradicional.",
+        "age": 50,
+        "isActive": true,
+        "party": "La Libertad Avanza"
+    },
+    {
+        "name": "Guillermo Alberto Francos",
+        "title": "Jefe de Gabinete de Ministros",
+        "bio": "Negociador veterano y ex ministro del Interior, nombrado Jefe de Gabinete en mayo de 2024 para conducir los proyectos de reforma de Milei en el Congreso; respetado por su estilo pragmático y de bajo perfil.",
+        "age": 75,
+        "isActive": true,
+        "party": "Independiente (cercano a la coalición de gobierno)"
+    },
+    {
+        "name": "Luis Andrés «Toto» Caputo",
+        "title": "Ministro de Economía",
+        "bio": "Economista con amplia experiencia en mercados, ex ministro de Finanzas y expresidente del Banco Central durante el gobierno de Mauricio Macri; regresó en diciembre de 2023 para dirigir el programa de estabilización monetaria de Milei, que incluye el levantamiento de los controles cambiarios.",
+        "age": 60,
+        "isActive": true,
+        "party": "Independiente"
+    },
+    {
+        "name": "Patricia Bullrich",
+        "title": "Ministra de Seguridad",
+        "bio": "Histórica referente en cuestiones de seguridad pública y ex presidenta del PRO que ocupó la misma cartera (2015-2019); reanudó el cargo en 2023 y se unió formalmente a La Libertad Avanza en 2025, liderando una ofensiva contra el crimen organizado y nueva legislación antimafia.",
+        "age": 68,
+        "isActive": true,
+        "party": "La Libertad Avanza (antes PRO)"
+    },
+    {
+        "name": "Gerardo Werthein",
+        "title": "Ministro de Relaciones Exteriores, Comercio Internacional y Culto",
+        "bio": "Empresario acaudalado, ex presidente del Comité Olímpico Argentino y ex embajador en EE.UU.; asumió la Cancillería en octubre de 2024 tras la salida de Diana Mondino, enfatizando vínculos más estrechos con EE.UU. y la diplomacia comercial.",
+        "age": 69,
+        "isActive": true,
+        "party": "Independiente"
+    }
+]

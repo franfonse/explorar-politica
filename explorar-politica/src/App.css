@@ -1,0 +1,17 @@
+/* Header will naturally stay at the top */
+header {
+  flex-shrink: 0; /* Prevents header from shrinking */
+}
+
+/* Main container will grow to fill available space */
+.main-container {
+  flex: 1 0 auto; /* Grows but doesn't shrink, auto basis */
+  width: 100%;
+  padding: 2rem;
+}
+
+/* Footer will stay at the bottom */
+footer {
+  flex-shrink: 0; /* Prevents footer from shrinking */
+  width: 100%;
+}

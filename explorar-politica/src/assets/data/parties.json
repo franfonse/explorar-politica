@@ -1,0 +1,58 @@
+[
+    {
+        "name": "La Libertad Avanza (LLA)",
+        "title": "Partido libertario de gobierno",
+        "bio": "Nacido como coalición en 2021 y reconocido como partido nacional en 2024 bajo el liderazgo de Javier Milei; impulsa minarquismo, libre mercado y valores conservadores, llevando adelante el ajuste y la desregulación conocidos como «plan motosierra».",
+        "foundedYear": 2021,
+        "isActive": true,
+        "spectrum": "libertarian / far-right"
+    },
+    {
+        "name": "Propuesta Republicana (PRO)",
+        "title": "Partido liberal de centroderecha",
+        "bio": "Fundado como alianza electoral en 2005 y convertido en partido nacional en 2010; desde 2024 lo preside Mauricio Macri. Fue pilar de Juntos por el Cambio y hoy negocia apoyos tácticos con el oficialismo, manteniendo énfasis en liberalismo económico y seguridad.",
+        "foundedYear": 2005,
+        "isActive": true,
+        "spectrum": "centre-right"
+    },
+    {
+        "name": "Unión Cívica Radical (UCR)",
+        "title": "Partido radical histórico",
+        "bio": "Fundado en 1891, abanderó el sufragio universal y la laicidad. Tras la disolución de Juntos por el Cambio, conserva estructura nacional y bloques propios mientras redefine su rol opositor; desde 2023 lo encabeza Martín Lousteau.",
+        "foundedYear": 1891,
+        "isActive": true,
+        "spectrum": "centre"
+    },
+    {
+        "name": "Partido Justicialista (PJ)",
+        "title": "Partido peronista mayoritario",
+        "bio": "Creado por Juan D. Perón en 1947, mezcla nacionalismo popular y justicia social. Desde noviembre de 2024 es presidido por Cristina Fernández de Kirchner y constituye la principal fuerza opositora parlamentaria.",
+        "foundedYear": 1947,
+        "isActive": true,
+        "spectrum": "centre-left"
+    },
+    {
+        "name": "Unión por la Patria (UP)",
+        "title": "Coalición electoral peronista",
+        "bio": "Formada en 2023 como continuidad del Frente de Todos, agrupa al PJ, movimientos sociales y fuerzas progresistas; gobierna varias provincias y lidera la bancada opositora en el Congreso.",
+        "foundedYear": 2023,
+        "isActive": true,
+        "spectrum": "centre-left"
+    },
+    {
+        "name": "Frente de Izquierda y de los Trabajadores – Unidad (FIT-U)",
+        "title": "Alianza trotskista de izquierda",
+        "bio": "Creada en 2011 por PO, PTS, IS y MST; defiende un programa anticapitalista y mantiene representación legislativa, además de protagonizar protestas obreras y estudiantiles.",
+        "foundedYear": 2011,
+        "isActive": true,
+        "spectrum": "far-left"
+    },
+    {
+        "name": "Coalición Cívica ARI (CC-ARI)",
+        "title": "Partido centrista republicano",
+        "bio": "Fundado en 2002 por Elisa Carrió como fuerza anticorrupción; fomenta transparencia y republicanismo. Tras el quiebre de Cambiemos actúa como bloque propio y apoya reformas institucionales selectivas.",
+        "foundedYear": 2002,
+        "isActive": true,
+        "spectrum": "centre-right"
+    }
+]
